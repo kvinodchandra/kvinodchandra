@@ -48,11 +48,11 @@ the problems. I dont have a theoretical knowledge, but ton of practical experien
 
 ## ABILITIES
 
-	Project Scheduling - over 90% of projects finished in due time.
-	Client Handel – always look for client satisfaction.
-	My greatest strength is learning. 
-	I always stay positive of my hard time.
-	Hiring and training
++	<b>Project Scheduling</b> - over 90% of projects finished in due time.
++	<b>Client Handel</b> – always look for client satisfaction.
++	My greatest strength is learning. 
++	I always stay positive of my hard time.
++	Hiring and training
 
 
 ## Personal Website
